@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="library.css"?>
+
+<library>
+  <location>Location: 24 Main St.</location>
+  <description>Description: A library that contains a wide range of your favourites books</description>
+  <librarian>Librarian: Wafaa muhammad</librarian>
+  <books>
+        <title>Title:It ends with us</title>
+      <ISBN>ISBN:12345</ISBN>
+      <author>Author:Colleen hoover</author>
+        <preface>Preface:The introduction</preface>
+        <parts>
+            <part title="Part 1">
+                <chapters>
+                <chapter title="Chapter 1">
+                    <summary>A Brief Summary: How abusement can still affects the life of the grown children</summary>
+                    <sections>
+                    <section>
+                    <paragraph>Paragraph:Lily Bloom, who buried her father twelve hours prior, sits on the ledge of a rooftop of a building she 
+                    doesn’t live in, thinking about the stars and death. She’s on the roof to calm her nerves after giving an “epic” eulogy
+                     at her father’s funeral, and she’s enjoying the solitude when she’s interrupted by an angry man. The man throws the door
+                     to the roof open and starts violently kicking a patio chair that’s made of marine-grade polymer. The chair is impervious 
+                     to his violence. When the man sees Lily, he asks her to get off the ledge, afraid she’s going to hurt herself. Lily is
+                      reluctant, but seeing his anxiety, she obliges, and once she’s on more solid ground, the two begin to talk.</paragraph>
+                    </section>
+                </sections>
+
+                </chapter>
+                <chapter title="Chapter 2">
+                <summary> A Brief Summary: The first love of the main character</summary>
+                <sections>
+                    <section>
+                        <paragraph>Paragraph: Six months pass. Lily quits her job and uses her inheritance to buy a storefront that she wants to turn into a flower shop. She shows it to her mother, who is equal parts impressed at Lily’s boldness and concerned it won’t work out. A woman named Allysa comes in looking for a job. She doesn’t need the money, but she’s bored, looking for something to occupy her time. Lily, who needs help to get her store up and running, offers Allysa a job for a small salary, and Allysa is thrilled. </paragraph>
+                    </section>
+                     <section>
+                  <paragraph> Paragraph: They start to work immediately on clearing out the junk from the storefront. They become fast friends. They talk about Lily’s idea for the flower shop, which she wants to be bold. Instead of creating a traditional, sweet flower shop, Lily comes up with the idea to create a flower shop with a darker, unconventional atmosphere. </paragraph>
+                </section>
+
+                </sections>
+                </chapter>
+            </chapters>
+            </part>
+
+            <part title="Part 2">
+                <chapters>
+                <chapter title="Chapter 3">
+                    <summary>A Brief Summary: How her life has changed after her father's death</summary>
+                <sections>
+                    <section>
+                        <paragraph> Paragraph:Lily’s ankle is sprained, and Ryle recommends she stay off it for a week while it heals. She hobbles to her apartment, takes pain pills, and realizes she’s going to have to fill her time. She decides to go back to reading her old journals about Atlas.</paragraph>
+                    </section>
+                    <section>
+                    <paragraph> Paragraph:As a teenager, Lily starts having Atlas over regularly after school when her parents aren’t home. They watch Ellen together, and Lily enjoys how much Atlas likes the show, too. Lily feeds Atlas, lets him use their shower, does laundry for him, and gives him some of her dad’s old clothes. Atlas is apologetic, but Lily likes taking care of him. Atlas cleans up some gardening tools for Lily because he notices that she likes to garden but doesn’t have proper tools. Lily is touched by the gift.</paragraph>
+                    </section>
+                </sections>
+                </chapter>
+                <chapter title="Chapter 4">
+                    <summary> A Brief Summary: Her marriage</summary>
+                    <sections>
+                    <section>
+                    <paragraph> Paragraph:She mets her first love again</paragraph>
+                    </section>
+                </sections>
+                </chapter>
+            </chapters>
+            </part>
+        </parts>
+        </books>
+<books>
+        <title>Reminders of him</title>
+         <ISBN>1234567</ISBN>
+      <author>Colleen hoover</author>
+            <preface>An introduction</preface>
+            <parts>
+            <part title="Part 1">
+                <chapters>
+                <chapter title="Chapter 1">
+                    <summary>A Brief Summary: Moving to a new house</summary>
+                    <sections>
+                    <section>
+                    <paragraph> Paragraph:Lily takes a week off to heal her ankle before going back to the store. When she does, she’s shocked to see how much work Allysa has gotten done. She’s happy to be back.</paragraph>
+                    </section>
+                    <section>
+                    <paragraph>paragraph:When she gets home, Ryle knocks on her door. He has tried 29 different apartments trying to find Lily. He begs Lily to have sex with him just once. He says he can’t concentrate on work, and he needs to just get her out of his system. Lily says she might be swayed, but while she’s taking a shower, Ryle falls asleep in her bed. </paragraph>
+                    </section>
+                </sections>
+                </chapter>
+
+                <chapter title="Chapter 2">
+                <summary>A Brief Summary: Trying to reach her daughter</summary>
+                <sections>
+                    <section>
+                        <paragraph> Paragraph:Lily’s passion for gardening and flowers symbolizes her ability to grow beautiful things out of the rough soils of her childhood. Ever since she was a teenager, her garden was her happy place. Her parents don’t understand her passion for gardening, </paragraph>
+                    </section>
+                    <section>
+                    <paragraph> Paragraph:Throughout the novel, Ryle often gives Lily mixed messages, suggesting he doesn’t know what he wants. Because Ryle is, in many ways, a mystery to himself, he’s confusing as a romantic partner to Lily from the beginning. For example, when he sees her at the flower shop, he both tells her he wants to have sex with her and tells her that they should avoid each other </paragraph>
+                    </section>
+                </sections>
+                </chapter>
+            </chapters>
+            </part>
+            <part title="Part 2">
+                <chapters>
+                <chapter title="Chapter 3">
+                    <summary>A Brief Summary: Her new life after her release from prison</summary>
+                <sections>
+                    <section>
+                        <paragraph> Paragraph:. Ever since she was a teenager, her garden was her happy place. Her parents don’t understand her passion for gardening, as illustrated by her mother getting Lily’s gardening gifts all wrong. Instead, it’s a talent that Lily nurtures on her own, a way for her to get out of the painful world of her house, escape her worries, and create something beautiful.  </paragraph>
+                    </section>
+                    <section>
+                    <paragraph>paragraph:She notices that just being in his presence makes her feel calm—the opposite of how she feels around her father. </paragraph>
+                    </section>
+                </sections>
+                </chapter>
+                <chapter title="Chapter 4">
+                    <summary>A Brief Summary: How she met her daughter after all these years</summary>
+                    <sections>
+                    <section>
+                        <paragraph> Paragraph:The two sleep chastely together, and when Ryle wakes up, he apologizes for his behavior and says Lily will never see him again</paragraph>
+                    </section>
+                    <section>
+                        <paragraph> Paragraph:Lily’s passion for gardening and flowers symbolizes her ability to grow beautiful things out of the rough soils of her childhood. </paragraph>
+                    </section>
+                </sections>
+                </chapter>
+            </chapters>
+            </part>
+        </parts>
+    </books>
+</library>

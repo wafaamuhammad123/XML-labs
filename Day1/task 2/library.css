@@ -1,0 +1,60 @@
+library
+{   padding: 3%;
+    margin-left: 10%;
+    width: 75%;
+    border: 5px solid #a68125;
+    /* border-width: 10px; */
+
+}
+location, description, librarian{
+    font-weight: bold;
+    color: #da810a;
+    padding: 1.5%;
+    flex-direction: column;
+    display: flex;
+    font-size: 25px;
+}
+
+books
+{
+display: block;
+margin-bottom: 30pt;
+margin-left: 0pt;
+}
+
+title, author, ISBN, preface
+{    font-weight: 700;
+    text-align: center;
+    margin-top: 20px;
+    display: flex;
+    color: rgb(151, 101, 158);
+    font-size: 24px;
+    margin-bottom: 30px;
+    flex-direction: column;
+}
+parts{
+    line-height: 1.5;
+    margin-top: 20px;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+}
+chapters{
+    display: flex;
+    flex-direction: column;
+}
+chapter{
+    display: flex;
+    flex-direction: column;
+}
+
+summary{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-weight: 600;
+    font-size: 25px;
+    color: #689F38;
+}
+paragraph{
+    color: #5050ca;
+}
