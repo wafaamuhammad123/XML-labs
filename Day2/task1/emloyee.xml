@@ -1,0 +1,25 @@
+<!DOCTYPE employees SYSTEM "employees.dtd">
+<employees>
+	<employee name="wafaa" email="wafaa@gmail.com">
+		<phone type="work">01274865283</phone>
+		<phone type="mobile">01273673137</phone>
+		<address>
+			<street>main st.</street>
+			<buildingNumber>24</buildingNumber>
+			<city>alexandria</city>
+			<region>Agamy</region>
+			<country>Egypt</country>
+		</address>
+	</employee>
+	<employee name="menna" email="menna@gmail.com">
+		<phone type="home">01279876493</phone>
+		<phone type="mobile">01224105773</phone>
+		<address>
+			<street>mostafa kamel.</street>
+			<buildingNumber>14</buildingNumber>
+			<city>stanly</city>
+			<region>alexandria</region>
+			<country>Egypt</country>
+		</address>
+	</employee>
+</employees>
