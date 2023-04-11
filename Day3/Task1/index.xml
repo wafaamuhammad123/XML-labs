@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="employees.xsd">
+  <employee>
+    <Name>Wafaa muhammad</Name>
+
+    <Phones>
+      <Phone Type="mobile">01273673137</Phone>
+      <Phone Type="home">3113121</Phone>
+    </Phones>
+
+    <Addresses>
+      <Address>
+        <Street>24 Main St.</Street>
+        <BuildingNumber>24</BuildingNumber>
+        <Region>Agamy</Region>
+        <City>Aleaxandria</City>
+        <Country>Egypt</Country>
+      </Address>
+      <Address>
+
+        <Street> 4 Main St.</Street>
+        <BuildingNumber>1</BuildingNumber>
+        <Region> kambshezar</Region>
+        <City>Aleaxandria</City>
+        <Country>Egypt</Country>
+      </Address>
+    </Addresses>
+
+    <Email>wafaa.muhammad2000@gmail.com</Email>
+
+  </employee>
+  <employee>
+
+    <Name>Menna rachad</Name>
+    <Phones>
+      <Phone Type="work">2234567</Phone>
+      <Phone Type="mobile">01224105775</Phone>
+    </Phones>
+    <Addresses>
+      <Address>
+        <Street>14 Main St.</Street>
+        <BuildingNumber>22</BuildingNumber>
+        <Region>Stanly</Region>
+        <City>Aleaxandria</City>
+        <Country>Egypt</Country>
+      </Address>
+    </Addresses>
+    <Email>mennarachad@gmail.com</Email>
+  </employee>
+</employees>

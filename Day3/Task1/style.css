@@ -1,0 +1,25 @@
+employees{
+    
+    width:40%;
+    margin:auto;
+    margin-top: 2%;
+    }
+    employee{
+        display:flex;
+        flex-direction: column;
+        margin:20px 0px; 
+        background-color: #0e4b66;
+        height: 280px;
+    }
+    Name,Phones,Addresses,Email{
+        font-size: 18px;
+        color: white;
+        padding: 7px;
+        margin-top: 20px;
+        margin-left: 70px;
+    
+    }
+    Phones,Addresses{
+        display:flex;
+        flex-direction: column;
+    }
